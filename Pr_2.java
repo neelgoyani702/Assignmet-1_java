@@ -9,6 +9,7 @@ public class Pr_2 {
 
         String answer = startOz(s);
         System.out.println(answer);
+        sc.close();
     }
 
     public static String startOz(String a)
