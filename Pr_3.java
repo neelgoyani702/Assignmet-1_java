@@ -10,6 +10,7 @@ public class Pr_3 {
         int num2 = sc.nextInt();
 
         lastDigit(num1, num2);
+        sc.close();
     }
 
     public static void lastDigit(int a, int b) {

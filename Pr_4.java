@@ -19,7 +19,7 @@ public class Pr_4 {
 
         if(d==0)
         System.out.println("false");
-
+        sc.close();
     }
 
     public static int array123(int[] ar)
