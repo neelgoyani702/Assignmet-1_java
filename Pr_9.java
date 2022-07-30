@@ -1,3 +1,7 @@
+// The problem is to check whether a given Sudoku solution is correct.
+
+// Neel Goyani - 21CE036
+
 import java.util.*;
 
 class Pr_9 {
