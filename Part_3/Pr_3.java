@@ -52,12 +52,12 @@ public class Pr_3 {
     public static void main(String[] args) {
         InterfaceInheritance Interfacee = new InterfaceInheritance();
         Interfacee.methodP();
-        System.out.println("Interface P constant:" + Interfacee.P + "\n");
+        System.out.println("Interface P constant:" + P.P + "\n");
         Interfacee.methodP1();
-        System.out.println("Interface P constant:" + Interfacee.P1 + "\n");
+        System.out.println("Interface P constant:" + P1.P1 + "\n");
         Interfacee.methodP2();
-        System.out.println("Interface P constant:" + Interfacee.P2 + "\n");
+        System.out.println("Interface P constant:" + P2.P2 + "\n");
         Interfacee.methodP12();
-        System.out.println("Interface P constant:" + Interfacee.P12 + "\n");
+        System.out.println("Interface P constant:" + P12.P12 + "\n");
     }
 }
