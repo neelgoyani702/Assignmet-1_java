@@ -16,10 +16,6 @@
     • A method named deposit that deposits a specified amount to the account.
 */
 
-import java.util.*;
-
-import javax.security.auth.login.AccountNotFoundException;
-
 class Pr_2 {
     public static void main(String[] args) {
         // Account a = new Account(2, 500);

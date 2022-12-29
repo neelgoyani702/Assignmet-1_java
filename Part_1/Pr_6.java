@@ -19,7 +19,7 @@ public class Pr_6 {
         String[] b = new String[a];
         System.out.println("Enter array : ");
         for (int i = 0; i < b.length; i++) {
-            b[i] = sc.next();
+            b[i] = sc.next();   
         }
         System.out.println("Enter string you want to remove");
         String c = sc.next();

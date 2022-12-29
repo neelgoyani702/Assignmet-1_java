@@ -20,7 +20,7 @@ public class Pr_5 {
         System.out.println("Enter second string : ");
         String b = sc.next();
         int c = stringMatch(a, b);
-        System.out.println(c);
+        System.out.println(c); 
         sc.close();
     }
 
